@@ -219,6 +219,7 @@ tEnemy.Start();
 
         Thread.Sleep(10);
         lock (pause) { }
+
     }
 
 
